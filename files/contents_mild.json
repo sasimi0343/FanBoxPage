@@ -1,0 +1,17 @@
+{
+  "contents": [
+    {
+      "MajorVersion": 0,
+      "MinorVersion": 0,
+      "ID": "test",
+      "Title": "オンライン有料上テスト用",
+      "Description": "テスト用の記事です。",
+      "TargetFile": "index.html",
+      "supporting": 2,
+      "contentType": 5,
+      "URLs": [
+        "./blog/1/test.zip"
+      ]
+    }
+  ]
+}
