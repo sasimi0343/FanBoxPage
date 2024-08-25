@@ -3,14 +3,14 @@
     {
       "MajorVersion": 0,
       "MinorVersion": 0,
-      "ID": "test",
-      "Title": "オンライン有料上テスト用",
-      "Description": "テスト用の記事です。",
+      "ID": "music_wip_1",
+      "Title": "楽曲のWork in Progress : 2024/08/25",
+      "Description": "2024/08/25の楽曲wip集です。今回は2曲です。",
       "TargetFile": "index.html",
-      "supporting": 2,
+      "supporting": 1,
       "contentType": 5,
       "URLs": [
-        "./blog/1/test.zip"
+        "./music/1/wip_1.zip"
       ]
     }
   ]
