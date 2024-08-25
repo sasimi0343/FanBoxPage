@@ -12,6 +12,19 @@
       "URLs": [
         "./blog/2/intro.zip"
       ]
+    },
+    {
+      "MajorVersion": 0,
+      "MinorVersion": 0,
+      "ID": "sinrai_kasi",
+      "Title": "「シンライ」制作裏話",
+      "Description": "歌詞解説はまたいつかします。今じゃないです。",
+      "TargetFile": "index.html",
+      "supporting": 0,
+      "contentType": 5,
+      "URLs": [
+        "./blog/3/sinrai.zip"
+      ]
     }
   ]
 }
