@@ -12,6 +12,19 @@
       "URLs": [
         "./blog/1/test.zip"
       ]
+    },
+    {
+      "MajorVersion": 0,
+      "MinorVersion": 0,
+      "ID": "introducing",
+      "Title": "FanBoxについて",
+      "Description": "さしみ。の様々なコンテンツを提供するFanBoxについての解説です。",
+      "TargetFile": "index.html",
+      "supporting": 0,
+      "contentType": 5,
+      "URLs": [
+        "./blog/2/intro.zip"
+      ]
     }
   ]
 }
