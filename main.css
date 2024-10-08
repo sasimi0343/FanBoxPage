@@ -1,0 +1,37 @@
+body {
+    background-color: #222233;
+    color: #eeeeee;
+    font-family: Arial, "HGPｺﾞｼｯｸE", "MS UI Gothic", Helvetica, sans-serif;
+    font-size: large;
+    line-height: 150%;
+    padding: 50px;
+}
+
+img {
+    object-fit: contain;
+}
+
+h1 {
+    background-color: #0000ff;
+    color: #ffffff;
+    font-family: "MS UI Gothic", Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    padding: 16px;
+}
+
+h2 {
+    border: white solid 1px;
+    font-family: "MS UI Gothic", Arial, Helvetica, sans-serif;
+    padding: 8px;
+}
+
+.quote {
+    background-color: dimgray;
+    color: #ffffff;
+    font-style: italic;
+    padding: 20px;
+}
+
+b {
+    font-weight: bold;
+}
